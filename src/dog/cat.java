@@ -22,4 +22,5 @@ public class cat {
 } 
 	}System.out.println("Lower = "+Lower);
 	  System.out.println("Upper = "+Upper);
+	  System.out.println("DONE");
 	  } }

@@ -22,6 +22,10 @@ public class cat {
 } 
 	}System.out.println("Lower = "+Lower);
 	  System.out.println("Upper = "+Upper);
+<<<<<<< HEAD
 	  System.out.println("SQL");
 	  System.out.println("12345");
+=======
+	  System.out.println("DONE");
+>>>>>>> 8a058c2d3f91549bb4107c41759a505929e88fd4
 	  } }
